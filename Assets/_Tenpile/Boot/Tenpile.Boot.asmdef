@@ -1,0 +1,22 @@
+{
+    "name": "Tenpile.Boot",
+    "rootNamespace": "Tenpile.Boot",
+    "references": [
+        "Tenpile.Core",
+        "Tenpile.App",
+        "Tenpile.View",
+        "VContainer",
+        "UniTask",
+        "MessagePipe",
+        "MessagePipe.VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

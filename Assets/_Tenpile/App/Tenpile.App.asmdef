@@ -1,0 +1,16 @@
+{
+    "name": "Tenpile.App",
+    "rootNamespace": "Tenpile.App",
+    "references": [
+        "Tenpile.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

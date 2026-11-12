@@ -1,0 +1,21 @@
+{
+    "name": "Tenpile.Editor",
+    "rootNamespace": "Tenpile.Editor",
+    "references": [
+        "Tenpile.Core",
+        "Tenpile.View",
+        "Tenpile.Boot",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

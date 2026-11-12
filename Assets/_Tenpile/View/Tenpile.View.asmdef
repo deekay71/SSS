@@ -1,0 +1,19 @@
+{
+    "name": "Tenpile.View",
+    "rootNamespace": "Tenpile.View",
+    "references": [
+        "Tenpile.Core",
+        "Tenpile.App",
+        "VContainer",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
